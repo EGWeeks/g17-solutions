@@ -136,6 +136,4 @@ function printAnswerThree(logSummaryMap) {
       console.log(key + ' WARN ' + logSummaryMap[key].warnCount);
     }
   }
-}
-
-// Remember to leave an empty line at the end of the file to give Ethan a hard time.
+} // Remember to not leave an empty line belong here because it's just foolish
